@@ -2,9 +2,9 @@
 
 
 
-|---------+-------------------------------------------|
-| source  | git:https://gitlab.common-lisp.net/cl-tar/cl-tar-file.git   |
-| commit  |   |
-| systems | cl-tar-file |
-|---------+-------------------------------------------|
+0c10bc8---------+-------------------------------------------|
+0c10bc8 source  | git:https://gitlab.common-lisp.net/cl-tar/cl-tar-file.git   |
+0c10bc8 commit  |   |
+0c10bc8 systems | cl-tar-file |
+0c10bc8---------+-------------------------------------------|
 
